@@ -1,6 +1,6 @@
 {
   "name": "GOTblock",
-  "description": "Removes any content, including images, from the browser.",
+  "description": "Removes any Game of Thrones content, including images, from the browser.",
   "version": "0.0.1",
   "manifest_version": 2,
   "permissions": [
